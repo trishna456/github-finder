@@ -1,3 +1,38 @@
+# GitHub Finder
+
+## Description
+
+GitHub Finder is a React application designed to search and display GitHub users. This project utilizes various modern web development techniques and tools, including React hooks, Context API, and React Router. It covers setting up a React project, working with components, state, props, and making HTTP requests to GitHub's API.
+
+## Features
+
+- **User Search:**
+  - Search for GitHub users by their username.
+  - Display user information including avatar, bio, and more.
+
+- **User Details:**
+  - View detailed information for a selected user.
+  - Display user's repositories with links to each repo.
+
+- **Additional Features:**
+  - Clear the search results.
+  - Alerts for user actions (e.g., when no search term is entered).
+
+## Technologies Used
+
+### Frontend
+- React: A JavaScript library for building user interfaces.
+- React Router: Declarative routing for React applications.
+- Context API: For managing global state in React.
+- Hooks: For using state and other React features in function components.
+
+### Development Tools
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
